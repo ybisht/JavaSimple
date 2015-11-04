@@ -1,7 +1,7 @@
 changes made thru branch1
 
 change no 2
-
+Master Changes
 
 This sample project demonstrates the below:
 
